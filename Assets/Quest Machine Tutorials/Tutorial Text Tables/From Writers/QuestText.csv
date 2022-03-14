@@ -1,0 +1,12 @@
+﻿Field,Default
+offer,There will never be peace in the land until the Humans and Orcs resolve their differences. Meet with the leader of each side to broker a peace treaty.
+journalActive,You have agreed to broker a peace treaty between the Humans and Orcs.
+journalMeetHumanActive,Meet with the Human king and convince him to sign the treaty.
+journalMeetOrcActive,Meet with the Orc Chief and convince her to sign the treaty.
+journalSignTreatyActive,The Humans and Orcs have agreed to sign a treaty. Arrange a meeting on neutral ground where both parties can sign it.
+journalSuccess,You brokered peace between the Humans and Orcs.
+dialogueActive,It will take all your diplomatic skills to broker peace between the Humans and Orcs.
+dialogueMeetHumanActive,Request an audience with King Belaroth in the Northeast. There you can try to convince him to sign the treaty.
+dialogueMeetOrcActive,"Challenge Chief Lurga in the Circle of Blood. If you can defeat her, you may be able to convince her to sign the treaty."
+dialogueSignTreatyActive,"Now that both leaders have agreed, arrange a neutral meeting place for the signing."
+dialogueSuccessful,"Your reputation proves to be well earned. Many have tried before, but only you were able to make peace between the Humans and Orcs."

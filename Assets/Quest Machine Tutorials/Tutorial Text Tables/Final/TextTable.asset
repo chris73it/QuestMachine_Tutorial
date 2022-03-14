@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: TextTable
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  m_languageValues: 00000000
+  m_fieldKeys: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b000000
+  m_fieldValues:
+  - m_fieldName: offer
+    m_keys: 00000000
+    m_values:
+    - There will never be peace in the land until the Humans and Orcs resolve their
+      differences. Meet with the leader of each side to broker a peace treaty.
+  - m_fieldName: journalActive
+    m_keys: 00000000
+    m_values:
+    - You have agreed to broker a peace treaty between the Humans and Orcs.
+  - m_fieldName: journalMeetHumanActive
+    m_keys: 00000000
+    m_values:
+    - Meet with the Human king and convince him to sign the treaty.
+  - m_fieldName: journalMeetOrcActive
+    m_keys: 00000000
+    m_values:
+    - Meet with the Orc Chief and convince her to sign the treaty.
+  - m_fieldName: journalSignTreatyActive
+    m_keys: 00000000
+    m_values:
+    - The Humans and Orcs have agreed to sign a treaty. Arrange a meeting on neutral
+      ground where both parties can sign it.
+  - m_fieldName: journalSuccess
+    m_keys: 00000000
+    m_values:
+    - You brokered peace between the Humans and Orcs.
+  - m_fieldName: dialogueActive
+    m_keys: 00000000
+    m_values:
+    - It will take all your diplomatic skills to broker peace between the Humans and
+      Orcs.
+  - m_fieldName: dialogueMeetHumanActive
+    m_keys: 00000000
+    m_values:
+    - Request an audience with King Belaroth in the Northeast. There you can try to
+      convince him to sign the treaty.
+  - m_fieldName: dialogueMeetOrcActive
+    m_keys: 00000000
+    m_values:
+    - Challenge Chief Lurga in the Circle of Blood. If you can defeat her, you may
+      be able to convince her to sign the treaty.
+  - m_fieldName: dialogueSignTreatyActive
+    m_keys: 00000000
+    m_values:
+    - Now that both leaders have agreed, arrange a neutral meeting place for the signing.
+  - m_fieldName: dialogueSuccessful
+    m_keys: 00000000
+    m_values:
+    - Your reputation proves to be well earned. Many have tried before, but only you
+      were able to make peace between the Humans and Orcs.
+  m_nextLanguageID: 1
+  m_nextFieldID: 12

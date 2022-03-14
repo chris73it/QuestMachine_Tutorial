@@ -1,0 +1,12 @@
+Field,Default,ru
+offer,There will never be peace in the land until the Humans and Orcs resolve their differences. Meet with the leader of each side to broker a peace treaty.,"На земле никогда не будет мира, пока люди и орки не разрешат свои разногласия. Встретьтесь с лидером каждой стороны, чтобы заключить мирный договор."
+journalActive,You have agreed to broker a peace treaty between the Humans and Orcs.,Вы согласились заключить мирный договор между людьми и орками.
+journalMeetHumanActive,Meet with the Human king and convince him to sign the treaty.,Встретьтесь с человеческим королем и убедите его подписать договор.
+journalMeetOrcActive,Meet with the Orc Chief and convince her to sign the treaty.,Встретьтесь с вождем орков и убедите ее подписать договор.
+journalSignTreatyActive,The Humans and Orcs have agreed to sign a treaty. Arrange a meeting on neutral ground where both parties can sign it.,"Люди и Орки согласились подписать договор. Организуйте встречу на нейтральной территории, где обе стороны могут подписать ее."
+journalSuccess,You brokered peace between the Humans and Orcs.,Вы заключили мир между людьми и орками.
+dialogueActive,It will take all your diplomatic skills to broker peace between the Humans and Orcs.,Потребуются все ваши дипломатические навыки для установления мира между людьми и орками.
+dialogueMeetHumanActive,Request an audience with King Belaroth in the Northeast. There you can try to convince him to sign the treaty.,Запросите аудиенцию у короля Беларота на северо-востоке. Там вы можете попытаться убедить его подписать договор.
+dialogueMeetOrcActive,"Challenge Chief Lurga in the Circle of Blood. If you can defeat her, you may be able to convince her to sign the treaty.","Бросьте вызов вождю Лурге в круг крови. Если вы сможете победить ее, вы сможете убедить ее подписать договор."
+dialogueSignTreatyActive,"Now that both leaders have agreed, arrange a neutral meeting place for the signing.","Теперь, когда оба лидера согласились, договорились о нейтральном месте встречи для подписания."
+dialogueSuccessful,"Your reputation proves to be well earned. Many have tried before, but only you were able to make peace between the Humans and Orcs.","Ваша репутация хорошо заслужена. Многие пытались и раньше, но только вы смогли заключить мир между людьми и орками."
